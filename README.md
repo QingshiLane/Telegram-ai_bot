@@ -55,6 +55,7 @@ new_talk - 清除聊天记录，开始新一轮对话
 1.安装依赖
 ```
 pip install python-telegram-bot
+pip install openai
 ```
 2.复制粘贴以下命令终端执行，下载并赋予脚本权限
 ```
