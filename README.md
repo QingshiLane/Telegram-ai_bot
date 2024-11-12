@@ -1,5 +1,5 @@
 # Telegram-ai_bot
-TG_AI机器人，接入马斯克模型Xai，趁着现在可以白嫖API
+TG_AI机器人，接入马斯克模型Xai，趁着现在可以白嫖API，机器人支持文字输入以及中文语音输入，属于私人AI助手，不会服务他人，不用担心自己的模型API被别人使用。
 ## 安装
 ### 一、创建TG机器人，获取机器人`Token`，并设置机器人命令描述
 #### 1.打开Telegram搜索[@BotFather](https://t.me/BotFather)，或点击直达
