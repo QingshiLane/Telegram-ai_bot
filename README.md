@@ -59,7 +59,7 @@ pip install python-telegram-bot
 2.复制粘贴以下命令终端执行，下载并赋予脚本权限
 ```
 git clone https://github.com/QingshiLane/Telegram-ai_bot.git
-cd Telegram-BOT
+cd Telegram-ai_bot
 chmod +x ./tg_bot_start.sh ./tg_bot_stop.sh
 ```
 3.进入并修改`ai_bot.py`其中XAI_API_KEY（去官网[https://x.ai](https://x.ai/)免费申请）、TELEGRAM_BOT_TOKEN和ALLOWED_USER_ID的值，将机器人的`Token`填入脚本`" "`中（注意将值填入双引号中，保留双引号）。以及你的`用户ID`。
