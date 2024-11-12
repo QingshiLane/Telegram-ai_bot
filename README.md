@@ -65,7 +65,8 @@ chmod +x ./tg_bot_start.sh ./tg_bot_stop.sh
 ```
 3.进入并修改`ai_bot.py`其中XAI_API_KEY（去官网[https://x.ai](https://x.ai/)免费申请）、TELEGRAM_BOT_TOKEN和ALLOWED_USER_ID的值，将机器人的`Token`填入脚本`" "`中（注意将值填入双引号中，保留双引号）。以及你的`用户ID`。
 ```python
-#修改脚本中TELEGRAM_BOT_TOKEN和ALLOWED_USER_ID的值，将机器人的Token填入脚本" "中（注意将值填入双引号中，保留双引号）。你的用户ID同理
+#修改脚本中XAI_API_KEY、TELEGRAM_BOT_TOKEN和ALLOWED_USER_ID的值，
+#将机器人的Token填入脚本" "中（注意将值填入双引号中，保留双引号）
 XAI_API_KEY = " "#x_ai——API
 TELEGRAM_BOT_TOKEN = " "#电报机器人TOKEN
 ALLOWED_USER_ID =   #允许用户的ID
